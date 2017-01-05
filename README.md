@@ -6,4 +6,4 @@ Orignally, it is used for people who are apply for academic positions, like PhD/
 
 It is easy to use and modify.
 
-    
+![image](./resume_cv.pdf)    
