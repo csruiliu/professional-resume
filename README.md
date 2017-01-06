@@ -4,6 +4,12 @@ I designed a neat and comprehensive resume template inspired by *Awesome Resume/
 
 Orignally, it is used for people who are apply for academic positions, like PhD/Master student, research assistant/associate, postdoc fellow, and even professor. However, I believe that this resume template is also suitable to other professional people. 
 
-It is easy to use and modify.
+There are different colors for you: red, emerald, skyblue, pink, orange, nephritis, concrete, darknight. You can also define your own color through color code.
 
-<img src="./snapshot.png" width="70%" height="70%">   
+Overall, it is easy to use and modify.
+
+<img src="./snapshot-red.png" width="70%" height="70%">
+
+<img src="./snapshot-black.png" width="70%" height="70%">
+
+<img src="./snapshot-blue.png" width="70%" height="70%">   
